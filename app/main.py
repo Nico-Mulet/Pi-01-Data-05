@@ -11,7 +11,7 @@ async def index():
     <head>
     </head>
     <body>
-    <h1> Proyecto Data engineer </h1>
+    <h1> Proyecto 1 </h1>
     <h2> ingrese a "/docs" para ver la documentación </h2>
     </body>
     </html>'''
